@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kristen Yee",
-    "label": "Student",
+    "label": "Shidler Undergraduate",
     "picture": "https://kyee8.github.io/images/kyee8.jpg",
     "email": "kyee8@hawaii.edu",
     "phone": "",
@@ -39,7 +39,7 @@
   },
   "interests": [
     {
-      "name": "shopping",
+      "name": "starbucks",
       "keywords": [
         "Arduino",
         "TI MSP430"
