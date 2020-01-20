@@ -7,6 +7,6 @@ labels:
   - MIS
   - Goals
 ---
-I have always been interested in business what the job description entails. Not knowing much about what specialization I should get into, I decided to give MIS a try. 
+I have always been interested in business the job description entails. Not knowing much about what specialization I should get into, I decided to give MIS a try. 
 
-I believe that I made the right decision, as learning information systems is becoming increasingly crucial in the business world. 
+I believe that I made the right decision, as learning information systems is becoming increasingly crucial in all aspects of the business world. My goals in this class are to learn as much as I can about programming and to develop my coding skills to where it needs to be. I am excited to start learning more about the foundations of MIS.
