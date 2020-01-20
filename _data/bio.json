@@ -19,11 +19,6 @@
         "network": "github",
         "username": "kyee8",
         "url": "http://github.com/kyee8"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme" 
       }
     ]
   },
@@ -74,9 +69,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Management Information Systems (expected Fall, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-22",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -85,54 +80,41 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Department of Education",
+      "position": "Clerical Student Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-01-03",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
+        "Assist staff with clerical duties. Scanning, filing, mail sorting, update spreadsheets, run errands, etc.",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Cookie Corner Hawaii",
+      "position": "Cashier/Customer Service",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2015-10-03",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
+        "Product preparation, cash handling, maintaining store appearance, providing great customer service",
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Kapiolani Medical Center for Women and Children",
+      "website": "https://www.hawaiipacifichealth.org/kapiolani/",
+      "position": "Playroom Volunteer",
+      "startDate": "2015-08-20",
+      "endDate": "2016-05-16",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Interact with young patients in the hospital playroom",
+        "Organize playroom, wipe down toys, tabletop surfaces, etc."
       ]
     }
   ],
