@@ -26,8 +26,6 @@
     {
       "name": "starbucks",
       "keywords": [
-        "Arduino",
-        ""
       ]
     },
     {
@@ -60,22 +58,22 @@
       "website": "",
       "startDate": "2020-01-03",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": ",
       "highlights": [
-        "Assist staff with clerical duties. Scanning, filing, mail sorting, update spreadsheets, run errands, etc.",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assist staff with clerical duties",
+        " Scanning, filing, mail sorting, update spreadsheets, run errands, and more"
       ]
     },
     {
       "company": "Cookie Corner Hawaii",
       "position": "Cashier/Customer Service",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "https://www.cookiecorner.com/",
       "startDate": "2015-10-03",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Product preparation, cash handling, maintaining store appearance, providing great customer service",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Product preparation, cash handling, maintaining store appearance, customer service",
+        ""
       ]
     }
   ],
