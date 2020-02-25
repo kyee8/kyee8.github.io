@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: E3: Preparing for WODs
+title: Preparing for WODs
 date: 2020-02-25
 labels:
-  - WODs
-  - MIS
+  - WODS 
+  - Learning
   - Reflection
 ---
 Link to E3 Assignment Instructions: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html
