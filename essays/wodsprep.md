@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: E3: Preparing for WODs Essay
-date: 2020-02-25
+title: Why MIS?
+date: 2020-01-16
 labels:
-  - Preparing
+  - Introduction
   - MIS
-  - Reflection
+  - Goals
 ---
 Link to E3 Assignment Instructions: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html
 
