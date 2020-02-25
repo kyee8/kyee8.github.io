@@ -8,6 +8,7 @@ labels:
   - MIS
   - Reflection
 ---
+Link to E3 Assignment Instructions: https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html
 
 The WOD that I recently performed was Invoice2, where we had to take the previous html from Invoice1 and modified if with an algorithm to help determine the shipping cost. As we used the html code from the previous WOD (Invoice 1), there were also a few minor mistakes that had to be fixed. 
 
